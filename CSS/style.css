@@ -100,9 +100,10 @@ a{
     font-size: 26px;
 }
 .four-wrapper>div h1{
-    font-size: 56px;
+    font-size: 50px;
     font-weight: bold;
-    padding: 200px 0px 0px 150px;
+    padding: 200px 0px 0px 0px;
+    text-align: center;
 }
 .four-wrapper>div h1 span:nth-child(2) span{
     color: #651FFF;
@@ -281,7 +282,7 @@ a{
 .six-wrapper>div:last-child>div:first-child div a{
     color: #333333;
     border: 2px solid #333333;
-    padding: 10px 100px;
+    padding: 10px 70px;
     border-radius: 12px;
     font-weight: bold;
 }
@@ -368,6 +369,7 @@ a{
     padding: 7px 8px;
     border-radius: 12px;
     font-weight: bold;
+    max-height: 100px;
 }
 .eight-wrapper>div:nth-child(1) div a:hover{
     background-color: #651FFF;
@@ -393,7 +395,7 @@ a{
     background-color: #ECECFE;
     color: #651FFF;
     border-radius: 24px;
-    max-height: 330px;
+    max-height: 450px;
 }
 .eight-wrapper>div:nth-child(2)>div:nth-child(2) div{
     padding: 15px;
