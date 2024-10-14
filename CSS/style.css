@@ -282,7 +282,7 @@ a{
 .six-wrapper>div:last-child>div:first-child div a{
     color: #333333;
     border: 2px solid #333333;
-    padding: 10px 70px;
+    padding: 10px 30px;
     border-radius: 12px;
     font-weight: bold;
 }
@@ -300,7 +300,7 @@ a{
 }
 .six-wrapper>div:last-child>div:last-child{
     margin: 45px 0px;
-    padding: 60px 80px;
+    padding: 50px 50px;
     background-color: #651FFF;
     color: #ffffff;
     border-radius: 24px;
@@ -327,7 +327,7 @@ a{
     background-color: #ECECFE;
     color: #651FFF;
     border-radius: 12px;
-    padding: 4px 10px;
+    padding: 4px 5px;
     text-align: start;
 }
 .six-wrapper>div:last-child>div:last-child div div{
